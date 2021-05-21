@@ -21,3 +21,7 @@ public class AppIndependentMethods extends DriverScript{
 		}
 	}
 }
+
+public static void main branching()
+{
+}
